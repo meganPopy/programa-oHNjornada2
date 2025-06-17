@@ -1,12 +1,18 @@
 body{
     background-color: #305050;
     color: white;
+    text-align: center;
+    font-family: Verdana;
 }
 h2{
     color: orange;
+    font-size: 40px;
 }
 .texto-inglês{
     font-style: italic;
+p{
+    font-size: 20px;
+}
 }
 #nome-usuário{
     font-weight: bold;
