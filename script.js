@@ -11,3 +11,6 @@ inserirNome();
  
 }
 mudarCor();
+
+let linguagens = ["JavaScript","Python","C++"];
+
