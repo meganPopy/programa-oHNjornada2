@@ -15,6 +15,6 @@ mudarCor();
 let linguagens = ["JavaScript","Python","C++"];
 
 const item = document.querySelector("#lista");
-item.textContent = linguagens[0];
+item.textContent = `${linguagens[0]}, ${linguagens[1]} e ${linguagens[2]}`;
 
 
