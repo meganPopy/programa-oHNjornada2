@@ -24,5 +24,6 @@ let aluno1 = {
   materiasFavoritas: ["Geografia","Programação","Arte"]
 
 }
-
+const objeto = document.querySelector("#aluno");
+objeto.textContent = aluno1.nome;
 
