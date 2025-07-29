@@ -17,4 +17,12 @@ let linguagens = ["JavaScript","Python","C++"];
 const item = document.querySelector("#lista");
 item.textContent = `${linguagens[0]}, ${linguagens[1]} e ${linguagens[2]}`;
 
+let aluno1 = {
+  nome: "Gabriel",
+  idade: 13,
+  anoLetivo: "2ªsérie",
+  materiasFavoritas: ["Geografia","Programação","Arte"]
+
+}
+
 
